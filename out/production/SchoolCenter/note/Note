@@ -1,0 +1,28 @@
+===> School Management :
+
+Profil : Student - Teacher
+
+* Student :
+    - Cree un Email
+    - Acheter une Formation
+* Teacher
+    - CRUD Etudiant
+    - Find Etudiant
+
+Ouverture :
+  Demande profils pour avoir le menu concerne
+
+ 2  types de sous menu : Menu Etudiant ( sous Menu ) - Menu Professeur ( sous - Menu )
+
+ chaque student cree a un somme de depart de 1000 euro
+
+ Services a propose : Creation E-mail , acheter une formation , Crud student
+
+ Donnees Initiale  : Les Departements de L'ecole - Formation et Prix
+
+ genere un mot de passe pour chaque email cree ( nom + prenom ) @ email.com
+
+
+
+
+
